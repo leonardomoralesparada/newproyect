@@ -1,0 +1,24 @@
+.formulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.formulario form{
+    color: brown;
+}
+
+.button{
+    width: 80px;
+    border-radius: 10px;
+    border-color: chartreuse;
+    cursor: pointer;
+
+}
+
+.button:hover{
+    color: blue;
+  
+    
+}
